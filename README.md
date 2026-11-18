@@ -198,9 +198,16 @@ Read it, learn from it, adapt it — but budget time before trusting it in produ
   apps and segments. The architecture generalises; the specifics will not.
 - **Documents date from May 2026**; the solution is v6 (October 2026). Where they disagree, the
   solution is authoritative.
-- **No licence file.** Nothing here grants redistribution rights yet — treat it as
-  reference material until a licence is added.
 - Provided **as-is**, with no warranty and no support commitment.
+
+---
+
+## Licence
+
+[MIT](LICENSE) — Copyright © 2026 IES Holdings, Inc.
+
+Use it, change it, ship it in commercial work, keep the copyright notice. Published with the
+approval of IES Holdings.
 
 ---
 
